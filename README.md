@@ -1,5 +1,5 @@
-### << Dork >>
-### <<< PHP Google Dorker. >>> 
+### Dork 
+### PHP Google Dorker.  
 
 
 ## Installation :
